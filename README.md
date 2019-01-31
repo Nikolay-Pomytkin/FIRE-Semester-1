@@ -1,0 +1,8 @@
+## First-Year Innovation and Research Experience: Semester 1 project
+
+### TL;DR:
+
+This repository contains all of the major documents and results from my first semester research project.
+
+* [ASN8](/ASN8)
+*

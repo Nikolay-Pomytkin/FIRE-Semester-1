@@ -21,7 +21,8 @@ My collaborators on this project were: [Richard Liang](https://github.com/RYLian
   * This folder contains our final paper that we submitted at the end of the semester and it contains the culmination of all of our hard work.
   * [Research Project Report - Final Paper](/ASN11/ASN11%20Research%20Project%20Report.pdf)
 * [Jupyter Notebook](/jupyter)
-  *
+  * This folder contains a Jupyter Notebook, containing a short guide regarding the decisions we made throughout the project.
+  * [Research Process - Notebook](/jupyter/FIRE_project_process.ipynb)
 
 
 ### Project Summary:
